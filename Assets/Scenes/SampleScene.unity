@@ -320,7 +320,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.01
-  right: 0
+  right: 1
 --- !u!212 &101796248
 SpriteRenderer:
   m_ObjectHideFlags: 0
